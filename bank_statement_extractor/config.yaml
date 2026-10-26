@@ -30,26 +30,26 @@ checkpoints:
   checkpoint_1:
     version: 1
     order: 1
-    state: Draft
+    state: Core Tests
 
   checkpoint_2:
     version: 1
     order: 2
-    state: Draft
+    state: Core Tests
 
   checkpoint_3:
     version: 1
     order: 3
-    state: Draft
+    state: Core Tests
 
   checkpoint_4:
     version: 1
     order: 4
-    state: Draft
+    state: Core Tests
 
   checkpoint_5:
     version: 1
     order: 5
-    state: Draft
+    state: Core Tests
 
 test_dependencies: []
